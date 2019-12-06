@@ -1,0 +1,2 @@
+# PPAttributedStringTool
+iOS富文本编辑器，功能简单易用的富文本编写，链式编程，类似masonry的使用方法。自己练手使用的工具类
